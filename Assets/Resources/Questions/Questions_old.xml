@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+	<question>
+		<text>What is the capital of France?</text>
+		<answers>
+			<answer correct="true">Paris</answer>
+			<answer correct="false">Berlin</answer>
+		</answers>
+		<difficulty>2</difficulty>
+		<category>Geography</category>
+	</question>
+	<question>
+		<text>What is a good definition of machine learning?</text>
+		<answers>
+			<answer correct="true">It is the field of study that gives computers the ability to learn without being explicitly programmed.</answer>
+			<answer correct="false">It is the science of programming computers.</answer>
+		</answers>
+		<difficulty>2</difficulty>
+		<category>Machine Learning</category>
+	</question>
+</questions>

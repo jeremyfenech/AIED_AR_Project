@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+
+	<question>
+		<text>What is a good definition of machine learning?</text>
+		<answers>
+			<answer correct="true">It is the field of study that gives computers the ability to learn without being explicitly programmed.</answer>
+			<answer correct="false">It is the science of programming computers.</answer>
+		</answers>
+		<difficulty>1</difficulty>
+		<category>Machine Learning</category>
+	</question>
+
+	<question>
+		<text>What is a branch of machine learning? 1. Supervised Learning	2. Unsupervised Learning</text>
+		<answers>
+			<answer correct="true">Both of them.</answer>
+			<answer correct="false">None of them.</answer>
+		</answers>
+		<difficulty>2</difficulty>
+		<category>Machine Learning</category>
+	</question>
+
+	<question>
+		<text>Which label fits best to the task? “Predict the number of Apple shares that will be traded next week”</text>
+		<answers>
+			<answer correct="true">Regression</answer>
+			<answer correct="false">Clustering</answer>
+		</answers>
+		<difficulty>3</difficulty>
+		<category>Machine Learning</category>
+	</question>
+
+	<question>
+		<text>What data type is “k” in the K-nearest neighbour algorithm?</text>
+		<answers>
+			<answer correct="true">Integer</answer>
+			<answer correct="false">Boolean</answer>
+		</answers>
+		<difficulty>2</difficulty>
+		<category>Machine Learning</category>
+	</question>
+
+	<question>
+		<text>When you look at the K-nearest neighbours algorithm what can we conclude about overfitting?</text>
+		<answers>
+			<answer correct="true">When you increase k, overfitting will decrease</answer>
+			<answer correct="false">When you increase k, overfitting will increase</answer>
+		</answers>
+		<difficulty>3</difficulty>
+		<category>Machine Learning</category>
+	</question>
+
+	<question>
+		<text>Linear regression is sensitive to outliers</text>
+		<answers>
+			<answer correct="true">True</answer>
+			<answer correct="false">False</answer>
+		</answers>
+		<difficulty>2</difficulty>
+		<category>Machine Learning</category>
+	</question>
+
+	<question>
+		<text>If you increase the number of hidden layers in a Multi Layer Perceptron, the classification error of test data always decreases</text>
+		<answers>
+			<answer correct="true">False</answer>
+			<answer correct="false">True</answer>
+		</answers>
+		<difficulty>4</difficulty>
+		<category>Machine Learning</category>
+	</question>
+
+	<question>
+		<text>What is true about model capacity?</text>
+		<answers>
+			<answer correct="true">If you increase the number of hidden layers, the model capacity increases</answer>
+			<answer correct="false">If you increase the number of hidden layers, the model capacity decreases</answer>
+		</answers>
+		<difficulty>3</difficulty>
+		<category>Machine Learning</category>
+	</question>
+
+	<question>
+		<text>Support vector machines use all the data points to determine the decision boundary</text>
+		<answers>
+			<answer correct="true">False</answer>
+			<answer correct="false">True</answer>
+		</answers>
+		<difficulty>3</difficulty>
+		<category>Machine Learning</category>
+	</question>
+
+	<question>
+		<text>You are using the RBF kernel in SVM with high Gamma value. What does this signify?</text>
+		<answers>
+			<answer correct="true">The model would consider only the points close to the hyperplane for modelling.</answer>
+			<answer correct="false">The model would not be affected by distance of points from the hyperplane for modelling.</answer>
+		</answers>
+		<difficulty>5</difficulty>
+		<category>Machine Learning</category>
+	</question>
+
+	<question>
+		<text>Which of the following is a disadvantage (or are disadvantages) of SVM?</text>
+		<answers>
+			<answer correct="true">It was originally designed as a 2-class classifier</answer>
+			<answer correct="false">It is suited to larger datasets as the training time with SVM’s can be high</answer>
+		</answers>
+		<difficulty>4</difficulty>
+		<category>Machine Learning</category>
+	</question>
+
+	<question>
+		<text>The naive Bayes classifier does not require a lot of training data.</text>
+		<answers>
+			<answer correct="true">True</answer>
+			<answer correct="false">False</answer>
+		</answers>
+		<difficulty>3</difficulty>
+		<category>Machine Learning</category>
+	</question>
+
+	<question>
+		<text>The Bernoulli naive Bayes classifier assumes your features are binary or can be converted to binary</text>
+		<answers>
+			<answer correct="true">True</answer>
+			<answer correct="false">False</answer>
+		</answers>
+		<difficulty>4</difficulty>
+		<category>Machine Learning</category>
+	</question>
+
+	<question>
+		<text>Decreasing the value of max_depth may overfit the data</text>
+		<answers>
+			<answer correct="true">False</answer>
+			<answer correct="false">True</answer>
+		</answers>
+		<difficulty>3</difficulty>
+		<category>Machine Learning</category>
+	</question>
+
+	<question>
+		<text>To use a decision tree for regression, a measure to split the dataset is the weighted mean square of the children nodes</text>
+		<answers>
+			<answer correct="true">True</answer>
+			<answer correct="false">False</answer>
+		</answers>
+		<difficulty>4</difficulty>
+		<category>Machine Learning</category>
+	</question>
+
+</questions>
